@@ -13,7 +13,7 @@ We reserve the right to moderate content and limit participation.
 
 * [Kusari Inspector](https://kusari.dev/inspector)
     * [Install the GitHub app](https://us.kusari.cloud/signup)
-    * [Documentation](https://docs.kusari.cloud/docs/Inspector/)
+    * [Documentation](https://docs.kusari.cloud/Inspector/)
 * [kusari-cli](https://github.com/kusari-cli)
-    * [Documentation](https://docs.kusari.cloud/docs/CLI/)
+    * [Documentation](https://docs.kusari.cloud/reference/CLI/)
 
